@@ -1,0 +1,17 @@
+body{
+	font-family: Verdana, Arial;
+	line-height: 1.5;
+}
+.entry{
+font-family: Verdana, Arial;
+font-size: 20px;
+font-weight: bold;
+color: #3B5998;
+display: inline;
+}
+
+.def{
+font-family: Verdana, Arial;
+font-size: 17px;
+color: #242120;
+}
